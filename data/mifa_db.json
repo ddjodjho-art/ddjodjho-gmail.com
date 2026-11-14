@@ -1,0 +1,140 @@
+{
+  "profiles": {
+    "test_kin_1": {
+      "id": "test_kin_1",
+      "pseudo": "Kinois_Joueur",
+      "commune": "Gombe",
+      "avatarColor": "#0D5C3E",
+      "xp": 0,
+      "level": 1,
+      "levelTitle": "Nouveau Kinois",
+      "nextLevelXp": 150,
+      "points": 0,
+      "tokens": 150,
+      "gamesPlayed": 0,
+      "badges": [],
+      "ownedItems": [],
+      "equippedItems": {},
+      "boosters": {
+        "quiz5050": 1,
+        "racingShield": 1,
+        "doubleXpGames": 0
+      },
+      "isPro": false,
+      "tournamentPoints": 0,
+      "bestScores": {
+        "quiz": 0,
+        "football": 0,
+        "racing": 0,
+        "memory": 0,
+        "puzzle": 0
+      },
+      "dailyDate": "2026-11-14",
+      "dailyChallenges": [
+        {
+          "id": "dc_quiz",
+          "title": "Réussir 70%+ au Quiz Kin & RDC",
+          "gameId": "quiz",
+          "target": 1,
+          "progress": 0,
+          "rewardTokens": 80,
+          "rewardXp": 90,
+          "claimed": false
+        },
+        {
+          "id": "dc_foot",
+          "title": "Marquer 5 buts cumulés en Street Foot",
+          "gameId": "football",
+          "target": 5,
+          "progress": 0,
+          "rewardTokens": 90,
+          "rewardXp": 100,
+          "claimed": false
+        },
+        {
+          "id": "dc_race",
+          "title": "Parcourir 1 000 m cumulés en Course",
+          "gameId": "racing",
+          "target": 1000,
+          "progress": 0,
+          "rewardTokens": 100,
+          "rewardXp": 110,
+          "claimed": false
+        }
+      ]
+    }
+  },
+  "seededLeaderboard": [
+    {
+      "id": "seed_1",
+      "pseudo": "Bana_Matonge",
+      "commune": "Kalamu",
+      "level": 5,
+      "points": 4820,
+      "tournamentPoints": 1340,
+      "avatarColor": "#0D5C3E",
+      "isPro": true
+    },
+    {
+      "id": "seed_2",
+      "pseudo": "Pilote_Gombe",
+      "commune": "Gombe",
+      "level": 5,
+      "points": 4190,
+      "tournamentPoints": 1120,
+      "avatarColor": "#D97706",
+      "isPro": false
+    },
+    {
+      "id": "seed_3",
+      "pseudo": "Ngaliema_Star",
+      "commune": "Ngaliema",
+      "level": 4,
+      "points": 3560,
+      "tournamentPoints": 980,
+      "avatarColor": "#1E293B",
+      "isPro": true
+    },
+    {
+      "id": "seed_4",
+      "pseudo": "Limete_Veloce",
+      "commune": "Limete",
+      "level": 4,
+      "points": 2890,
+      "tournamentPoints": 790,
+      "avatarColor": "#B45309",
+      "isPro": false
+    },
+    {
+      "id": "seed_5",
+      "pseudo": "Lemba_Savant",
+      "commune": "Lemba",
+      "level": 3,
+      "points": 2140,
+      "tournamentPoints": 620,
+      "avatarColor": "#0F766E",
+      "isPro": false
+    },
+    {
+      "id": "seed_6",
+      "pseudo": "Bandal_Foot",
+      "commune": "Bandalungwa",
+      "level": 3,
+      "points": 1620,
+      "tournamentPoints": 490,
+      "avatarColor": "#334155",
+      "isPro": false
+    },
+    {
+      "id": "seed_7",
+      "pseudo": "Masina_Rapide",
+      "commune": "Masina",
+      "level": 2,
+      "points": 940,
+      "tournamentPoints": 310,
+      "avatarColor": "#9A3412",
+      "isPro": false
+    }
+  ],
+  "inquiries": []
+}
